@@ -14,8 +14,8 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://versaweb.dl.sourceforge.net/project/xiaomi-eu-multilang-miui-roms/xiaomi.eu/MIUI-WEEKLY-RELEASES/20.11.5/xiaomi.eu_multi_MI9LiteMICC9_20.11.5_v12-10.zip
-  ROM_NAME: MIUI
+  ROM_URL: https://dl.google.com/dl/android/aosp/bonito-ota-qq3a.200805.001-96efba35.zip
+  ROM_NAME: Pixel
   TZ: Asia/Shanghai
 
 jobs:
